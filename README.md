@@ -9,3 +9,5 @@ A list of papers and other resources on computer vision and deep learning with e
 - Eye Tracking for Everyone [[link]](http://gazecapture.csail.mit.edu/cvpr2016_gazecapture.pdf) (2016)
 - Where are they looking? [[NIPS]](https://papers.nips.cc/paper/5848-where-are-they-looking.pdf) (2016)
 
+# Mobile Architectures
+- Mobile Nets [[link]](https://arxiv.org/pdf/1704.04861.pdf)
