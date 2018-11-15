@@ -10,4 +10,4 @@ A list of papers and other resources on computer vision and deep learning with e
 - Where are they looking? [[NIPS]](https://papers.nips.cc/paper/5848-where-are-they-looking.pdf) (2016)
 
 ## Mobile Architectures
-- Mobile Nets [[v1]](https://arxiv.org/pdf/1704.04861.pdf) [[v2]](https://arxiv.org/pdf/1801.04381.pdf)
+- Mobile Nets [[v1]](https://arxiv.org/pdf/1704.04861.pdf) (2017) [[v2]](https://arxiv.org/pdf/1801.04381.pdf) (2018)
